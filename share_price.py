@@ -1,5 +1,10 @@
 import csv
 
+"""
+Created a function that will return a dictionary that will have max value for each company.
+In the dictionary company name will be a key and value will the a string, containing year and month, in which
+share price was maximum for that particular company.
+"""
 def return_max():
 	"""
 	opening csv file having share prices data.
